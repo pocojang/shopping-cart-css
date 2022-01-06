@@ -33,25 +33,17 @@
         <button class="nav-button">주문목록</button>
       </div>
     </nav>
-    <div class="product-detail-container">
-      <div class="flex-col-center w-520">
-        <img
-          class="w-480 h-480 mb-10"
-          src="./assets/images/product.png"
-          alt="PET보틀-정사각(420ml)"
-        />
-        <div class="product-detail-info">
-          <span class="product-detail-info__name">PET보틀-정사각(420ml)</span>
-          <hr class="divide-line my-20" />
-          <div class="flex justify-between">
-            <span>금액</span>
-            <span class="product-detail-info__price">43,000원</span>
-          </div>
-        </div>
-        <button class="product-detail-button flex-center mt-20">
-          장바구니
-        </button>
-      </div>
-    </div>
+
+    <section class="order-section">
+      <header class="flex-col-center mt-20">
+        <h2 class="order-section__title">장바구니</h2>
+        <hr class="divide-line mt-20" />
+      </header>
+
+      <label class="checkbox-container">
+        <input type="checkbox" checked="checked" />
+        <span class="checkmark"></span>
+      </label>
+    </section>
   </body>
 </html>
