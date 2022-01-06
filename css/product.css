@@ -11,3 +11,10 @@
   display: flex;
   flex-direction: column;
 }
+
+.product-info__name {
+  font-size: 12px;
+}
+
+.product-info__price {
+}
