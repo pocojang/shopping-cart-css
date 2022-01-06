@@ -51,8 +51,24 @@
   width: 280px;
 }
 
+.w-480 {
+  width: 480px;
+}
+
+.w-520 {
+  width: 520;
+}
+
 .h-280 {
   height: 280px;
+}
+
+.h-480 {
+  height: 480px;
+}
+
+.h-520 {
+  height: 520px;
 }
 
 .p-5 {
@@ -61,4 +77,36 @@
 
 .p-10 {
   padding: 10px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.my-10 {
+  margin: 10px 0;
+}
+
+.my-20 {
+  margin: 20px 0;
+}
+
+.mx-10 {
+  margin: 0 10px;
+}
+
+.mx-20 {
+  margin: 0 20px;
 }

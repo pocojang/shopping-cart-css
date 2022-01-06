@@ -7,4 +7,10 @@
 
 body {
   width: 100%;
+  max-width: 1920px;
+}
+
+.divide-line {
+  width: 100%;
+  border: 2px solid #aaaaaa;
 }
