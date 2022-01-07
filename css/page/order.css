@@ -78,3 +78,13 @@
 
   border: 1px solid #aaaaaa;
 }
+
+.order-detail-container {
+  display: flex;
+  justify-content: flex-end;
+  margin: 50px 0;
+}
+
+.order-detail-title {
+  font-size: 24px;
+}
