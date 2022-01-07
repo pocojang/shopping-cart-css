@@ -99,12 +99,40 @@
   padding: 10px;
 }
 
+.p-20 {
+  padding: 20px;
+}
+
+.px-10 {
+  padding: 10px 0;
+}
+
+.px-20 {
+  padding: 20px 0;
+}
+
+.py-10 {
+  padding: 0 10px;
+}
+
+.py-20 {
+  padding: 0 20px;
+}
+
 .mt-10 {
   margin-top: 10px;
 }
 
 .mt-20 {
   margin-top: 20px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-40 {
+  margin-top: 40px;
 }
 
 .mb-10 {
@@ -116,17 +144,21 @@
 }
 
 .my-10 {
-  margin: 10px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .my-20 {
-  margin: 20px 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .mx-10 {
-  margin: 0 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .mx-20 {
-  margin: 0 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }

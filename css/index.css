@@ -1,13 +1,5 @@
-@import "./common/reset.css";
-@import "./common/global-nav.css";
-@import "./common/nav.css";
-@import "./common/checkbox.css";
-@import "./common/number-input.css";
-@import "./page/product.css";
-@import "./page/order.css";
-@import "./page/cart.css";
-
-@import "./common/utils.css";
+@import "./common/index.css";
+@import "./page/index.css";
 
 body {
   width: 100%;
