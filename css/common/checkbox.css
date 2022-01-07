@@ -5,7 +5,7 @@
 
 .checkbox {
   appearance: none;
-  border: 1px solid gray;
+  border: 1px solid #2ac1bc;
   border-radius: 2px;
   width: 1.75rem;
   height: 1.75rem;
@@ -16,7 +16,7 @@
   }
 
   &:checked {
-    background-color: gray;
+    background-color: #2ac1bc;
   }
 
   &:after {

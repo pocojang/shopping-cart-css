@@ -1,0 +1,39 @@
+.cart-section {
+  padding: 24px 300px;
+}
+
+.cart-section__title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.delete-button {
+  padding: 12px 22px;
+  border: 1px solid #bbbbbb;
+}
+
+.cart-left-section {
+  width: 60%;
+  margin-top: 50px;
+}
+
+.cart-right-section {
+  width: 35%;
+}
+
+.cart-title {
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.cart-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-name {
+  font-size: 20px;
+}
+
+.cart-price {
+}

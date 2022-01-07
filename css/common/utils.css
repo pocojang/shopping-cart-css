@@ -2,6 +2,18 @@
   display: flex;
 }
 
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-start {
+  justify-content: start;
+}
+
+.justify-end {
+  justify-content: end;
+}
 .justify-center {
   justify-content: center;
 }
@@ -47,6 +59,10 @@
   gap: 15px;
 }
 
+.w-144 {
+  width: 144px;
+}
+
 .w-280 {
   width: 280px;
 }
@@ -57,6 +73,10 @@
 
 .w-520 {
   width: 520;
+}
+
+.h-144 {
+  height: 144px;
 }
 
 .h-280 {

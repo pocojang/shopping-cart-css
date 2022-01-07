@@ -2,6 +2,7 @@
 @import "./common/global-nav.css";
 @import "./common/nav.css";
 @import "./common/checkbox.css";
+@import "./common/number-input.css";
 @import "./page/product.css";
 @import "./page/order.css";
 @import "./page/cart.css";
@@ -15,5 +16,15 @@ body {
 
 .divide-line {
   width: 100%;
+  border: 2px solid black;
+}
+
+.divide-line-gray {
+  width: 100%;
   border: 2px solid #aaaaaa;
+}
+
+.divide-line-thin {
+  width: 100%;
+  border: 1px solid #aaaaaa;
 }
