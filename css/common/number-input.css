@@ -20,7 +20,8 @@
   border: 1px solid #dddddd;
   font-size: 100%;
   cursor: pointer;
-  &:focus {
-    outline: none;
-  }
+}
+
+.number-input-button:focus {
+  outline: none;
 }
