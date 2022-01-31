@@ -2,8 +2,8 @@
 @import "./page/index.css";
 
 body {
-  width: 100%;
-  max-width: 1920px;
+  width: 1920px;
+  margin: 24px auto 0;
 }
 
 .divide-line {
